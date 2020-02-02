@@ -5,7 +5,7 @@ const content = document.querySelector('.content');
 const corobisz = ['niech gówno cie to obchodzi.', 'a ty?', 'nic', 'z wielką chęcią słucham ciebie.'];
 
 
-const u = ['yeah', 'uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu', 'nie rozumiem hihi', 'co?', 'no o co ci chodzi nic nie rozumiem', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeemmuu'];
+const u = ['yeah', 'uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu', 'nie rozumiem hihi', 'co?', 'no o co ci chodzi nic nie rozumiem', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeemmuu'];
 
 
 const  kimjestes = ['jestem twoim asystentem ', 'nazywam sie Donekadamudanirywytadaamuritywosifusaburedikolecotnomoda .  dorryfus'];
