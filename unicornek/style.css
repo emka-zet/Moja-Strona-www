@@ -3,8 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    width: 100vw;
+}
 
 #logo {
+    width: 80vw;
     position: absolute;
     top: 20px;
     left: 50%;
@@ -12,6 +16,7 @@
 }
 
 #logo-fill {
+    width: 80vw;
     position: absolute;
     opacity: 0;
     top: 20px;
@@ -21,10 +26,11 @@
 }
 
 #unicorn {
+    width: 90vw;
     position: absolute;
     top: 150px;
     left: 50%;
-    transform: translate(-70%);
+    transform: translate(-50%);
 }
 
 #oko-close {
